@@ -1,5 +1,5 @@
 # cucumber_test
-How use Cucumber + Java + WebDriver Selenium
+How to use Cucumber + Java + WebDriver Selenium
 
 This example use Cucumber (https://cucumber.io/) + Selenium WebDriver (http://www.seleniumhq.org/projects/webdriver/)
 This is test case modified to be applicated with BDD (https://en.wikipedia.org/wiki/Behavior-driven_development) process.
